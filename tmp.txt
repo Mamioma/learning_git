@@ -1,2 +1,2 @@
-hello git.
-this is Mingyong typing.
+hello git
+this is Mingyong typing
